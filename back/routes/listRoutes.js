@@ -38,7 +38,7 @@ router.patch("/edit/:id", async (req, res) => {
   }
 });
 
-router.get("/delete/:id", async (req, res) => {
+router.delete("/delete/:id", async (req, res) => {
   const name = parseInt(req.params["id"]);
 
   try {
