@@ -1,3 +1,5 @@
+//J'AI COMMENTER CETTE PARTIE POUR NE PAS AVOIR DE CONFFLIT DU FAIT QUE MONGODB NE FONCTIONNE PAS J'AI QUAND MEME PRIS SOIN DE LA REALISER DU MIEUX QUE JE POUVAIS MALGRES QUE JE NE PUISSE PAS TESTER
+
 // import { useState, useEffect } from "react";
 // import Layout from "../../components/Layout";
 // import { useRouter } from "next/router";
